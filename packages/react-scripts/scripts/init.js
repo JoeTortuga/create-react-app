@@ -196,7 +196,7 @@ module.exports = function(
 
   // Setup the eslint config
   appPackage.eslintConfig = {
-    extends: 'react-app',
+    extends: 'jt-react-app',
   };
 
   // Setup the browsers list
