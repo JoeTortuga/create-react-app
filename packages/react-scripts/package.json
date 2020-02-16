@@ -1,7 +1,7 @@
 {
   "name": "jt-react-scripts",
-  "version": "0.0.1",
-  "description": "Joe Tortuga's fork of react-scripts from CRA v4.0.1",
+  "version": "0.0.2",
+  "description": "Joe Tortuga's fork of react-scripts from CRA v3.4.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/joetortuga/create-react-app.git",
